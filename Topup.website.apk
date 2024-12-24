@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Download Your App</title>
+    <style>
+        body {
+            text-align: center;
+            font-family: Arial, sans-serif;
+            margin-top: 50px;
+        }
+        img {
+            width: 150px;
+            height: 150px;
+        }
+        a {
+            text-decoration: none;
+            font-size: 20px;
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 5px;
+        }
+        a:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <img src="https://imgur.com/a/KZJSHln" alt="App Logo">
+    <h1>Download Your App</h1>
+    <p>Click the button below to download the app.</p>
+    <a href="https://drive.google.com/file/d/1aQD6fjMgYabToOg-TWXnWcX85lbiSxMJ/view?usp=drivesdk" target="_blank">Download Now</a>
+</body>
+</html>
